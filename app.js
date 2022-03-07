@@ -6,7 +6,7 @@ const vacationsController = require("./controllers/vacations-controller");
 const followedVacationController = require("./controllers/followedV-controller");
 const filesController = require("./controllers/files-controller");
 
-console.log("hello git")
+console.log("test commit")
 
 const loginFilter = require("./middleware/login-filter");
 const errorHandler = require("./errors/error-handler");
